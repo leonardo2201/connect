@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+    .carousel {
+        display: grid;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        color: #7F7F7F !important;
+        text-align: center;
+    }
+}

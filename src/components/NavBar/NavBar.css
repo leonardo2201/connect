@@ -1,0 +1,15 @@
+@media all and (min-width: 480px) {
+    .nav-buttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        color: #7F7F7F !important;
+    }
+
+    .nav-buttons .btn-cadastrar {
+        margin-left: 80px;
+        background-color: #177F53 !important;
+        border-color: #177F53 !important;
+      }
+  }

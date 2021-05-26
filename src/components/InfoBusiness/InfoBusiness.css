@@ -1,0 +1,29 @@
+@media all and (min-width: 480px) {
+  
+  .infoBusiness {
+    background-color: #F6F6F6 !important;
+  }
+
+  .infoBusiness img {
+    padding: 0px 2px;
+  }
+}
+
+.infoBusiness a {
+  color: #7F7F7F !important;
+  
+}
+
+.infoBusiness {
+  display: grid;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #7F7F7F !important;
+  text-align: center;
+}
+
+.textInfo{
+  padding: 0 400px;
+  font-size: 18px;
+}

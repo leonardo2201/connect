@@ -1,0 +1,28 @@
+@media all and (min-width: 480px) {
+  
+  .footer {
+    background-color: #F6F6F6 !important;
+  }
+
+  .footer img {
+    padding: 0px 2px;
+  }
+}
+
+.footer a {
+  color: #7F7F7F !important;
+  
+}
+
+.contacts {
+  display: -webkit-inline-box;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #7F7F7F !important;
+  text-align: justify;
+}
+
+.panelChanel{
+  padding-right: 50px;
+}
